@@ -7,3 +7,5 @@ while temp > 0:
    temp //= 10
 if num == sum:
    print("yes")
+else:
+    print("no")
